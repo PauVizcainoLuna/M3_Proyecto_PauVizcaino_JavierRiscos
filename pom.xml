@@ -12,6 +12,13 @@
     <dependencies>
 
         <dependency>
+            <groupId>net.exogeni.orca</groupId>
+            <artifactId>embed</artifactId>
+            <version>5.4.5</version>
+        </dependency>
+
+
+        <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.33</version>
